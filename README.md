@@ -1,5 +1,5 @@
 # Fun GPTs Store
-A curated list of specialized GPT chatbots that are fun, engaging and sometimes silly. Submit a pull request to add your GPTs.
+A curated list of specialized GPT chatbots that are fun, engaging and sometimes silly. Submit a pull request to add your GPTs. Check out the Fun GPTs Store GPT to chat about the options: https://chat.openai.com/g/g-JVgcKkd9Z-fun-gpts-store
 
 ## Table of Contents
 - [Characters](#characters)
