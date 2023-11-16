@@ -1,5 +1,5 @@
 # Fun GPTs Store
-A curated list of specialized GPT chatbots designed to assist you in a variety of tasks, from technical questions to creative endeavors. To access the GPT Store Finder, visit the custom GPT containg all the updated data here
+A curated list of specialized GPT chatbots that are fun, engaging and sometimes silly. Submit a pull request to add your GPTs.
 
 ## Table of Contents
 - [Characters](#characters)
