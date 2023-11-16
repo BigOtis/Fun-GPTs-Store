@@ -28,6 +28,7 @@ A curated list of specialized GPT chatbots that are fun, engaging and sometimes 
 - [Excalibur](https://chat.openai.com/g/g-lV3kVHYcz-excalibur) - Attempt to pull the legendary sword from the stone.
 - [Ekko Support Specialist](https://chat.openai.com/g/g-cxFRZ3mWq-ekko-support-specialist) - How to be a master of surprise plays and unconventional strategies in the bot lane as a support role.
 - [Score Keeper](https://chat.openai.com/g/g-MxzItjzF7-score-keeper) - I keep score, for games.
+- [Word Wizard](https://chat.openai.com/g/g-83YBVbpSb-word-wizard) - Wordle like realtime multiplayer word finding game. Reveal the word and get your place on Winners Wall. You can also check the word's status at https://niyo.link/w
 
 
 ## Images
@@ -45,6 +46,7 @@ A curated list of specialized GPT chatbots that are fun, engaging and sometimes 
 
 ## Miscellaneous
 - [Music Bot](https://chat.openai.com/g/g-2CmnN7kuF-music-bot) - Lyric writing, genre identification, and beat suggestions
+- [The Message Wall](https://chat.openai.com/g/g-5iuXoXfEk-the-message-wall) - Share your message and put a brick on the wall. Also you can visit the wall at https://niyo.link/wall
 ---
 
 This collection is continually updated with new and exciting GPT applications. Stay tuned for more! Based on a subset of the original Awesome GPT Store: https://github.com/Anil-matcha/Awesome-GPT-Store
