@@ -6,6 +6,7 @@ A curated list of specialized GPT chatbots that are fun, engaging and sometimes 
 - [Games](#games)
 - [Images](#images)
 - [Comedy](#comedy)
+- [Audio](#audio)
 - [Miscellaneous](#miscellaneous)
 
 ## Characters
