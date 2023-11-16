@@ -20,6 +20,7 @@ A curated list of specialized GPT chatbots that are fun, engaging and sometimes 
 - [Romance](https://chat.openai.com/g/g-p4L4KuEdO-romance) - Your AI companion for romantic advice and conversations.
 - [Simpsonize Me](https://chat.openai.com/g/g-tcmMldCYy-simpsonize-me) - Transforms photos into Simpsons-style art.
 - [ToonGPT](https://chat.openai.com/g/g-Jsefk8PeL-toongpt) - Turn drawings into illustrations.
+- [Homer Humor](https://chat.openai.com/g/g-uKcA1cRJ9-homer-humor) - Lightening your stress with classic Simpson Humor
 
 ## Games
 - [BlackjackGPT](https://chat.openai.com/g/g-LptUSKHwc-blackjackgpt) - Blackjack Simulator
